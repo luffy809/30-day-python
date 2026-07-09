@@ -1,21 +1,17 @@
 <div align="center">
   <h1> 30 Days Of Python: Day 24 - Statistics</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="#">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<a href="#" target="_blank">Nikhil Chaudhary</a><br>
 <small>Second Edition: July, 2021</small>
 </sub>
 </div>
 
 [<< Day 23](../23_Day_Virtual_environment/23_virtual_environment.md) | [Day 25 >>](../25_Day_Pandas/25_pandas.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](https://img.shields.io/badge/30_Days_Of_Python-Nikhil_Chaudhary-blue?style=for-the-badge)
 
 - [📘 Day 24](#-day-24)
   - [Python for Statistical Analysis](#python-for-statistical-analysis)
@@ -60,7 +56,7 @@ asabeneh@Asabeneh:~/Desktop/30DaysOfPython$ pip install numpy
 
 ## Importing NumPy
 
-Jupyter notebook is available if your are in favor of [jupyter notebook](https://github.com/Asabeneh/data-science-for-everyone/blob/master/numpy/numpy.ipynb)
+Jupyter notebook is available if your are in favor of [jupyter notebook](#)
 
 ```py
     # How to import numpy
