@@ -1,14 +1,10 @@
 <div align="center">
   <h1> 30 Days Of Python: Day 27 - Python with MongoDB </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="#">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<a href="#" target="_blank">Nikhil Chaudhary</a><br>
 <small> Second Edition: July, 2021</small>
 </sub>
 
@@ -16,7 +12,7 @@
 
 [<< Day 26](../26_Day_Python_web/26_python_web.md) | [Day 28 >>](../28_Day_API/28_API.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](https://img.shields.io/badge/30_Days_Of_Python-Nikhil_Chaudhary-blue?style=for-the-badge)
 
 - [📘 Day 27](#-day-27)
 - [Python with MongoDB](#python-with-mongodb)
