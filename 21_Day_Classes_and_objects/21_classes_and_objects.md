@@ -1,14 +1,10 @@
 <div align="center">
   <h1> 30 Days Of Python: Day 21 - Classes and Objects</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="#">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<a href="#" target="_blank">Nikhil Chaudhary</a><br>
 <small>Second Edition: July, 2021</small>
 </sub>
 
@@ -16,7 +12,7 @@
 
 [<< Day 20](../20_Day_Python_package_manager/20_python_package_manager.md) | [Day 22 >>](../22_Day_Web_scraping/22_web_scraping.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](https://img.shields.io/badge/30_Days_Of_Python-Nikhil_Chaudhary-blue?style=for-the-badge)
 
 - [📘 Day 21](#-day-21)
   - [Classes and Objects](#classes-and-objects)
