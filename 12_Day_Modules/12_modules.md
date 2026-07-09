@@ -1,14 +1,11 @@
 <div align="center">
   <h1> 30 Days Of Python: Day 12 - Modules </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/nikhil-chaudhary/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/nikhil-chaudhary/" target="_blank">Nikhil Chaudhary</a><br>
 <small> Second Edition: July, 2021</small>
 </sub>
 
@@ -17,7 +14,7 @@
 
 [<< Day 11](../11_Day_Functions/11_functions.md) | [Day 13>>](../13_Day_List_comprehension/13_list_comprehension.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](https://img.shields.io/badge/30_Days_Of_Python-Nikhil_Chaudhary-blue?style=for-the-badge)
 
 - [📘 Day 12](#-day-12)
   - [Modules](#modules)
@@ -65,7 +62,7 @@ To import the file we use the _import_ keyword and the name of the file only.
 ```py
 # main.py file
 import mymodule
-print(mymodule.generate_full_name('Asabeneh', 'Yetayeh')) # Asabeneh Yetayeh
+print(mymodule.generate_full_name('Nikhil', 'Yetayeh')) # Nikhil Chaudhary
 ```
 
 ### Import Functions from a Module
@@ -135,13 +132,13 @@ print('Welcome {}. Enjoy  {} challenge!'.format(sys.argv[1], sys.argv[2]))
 Now to check how this script works I wrote in command line:
 
 ```sh
-python script.py Asabeneh 30DaysOfPython
+python script.py Nikhil 30DaysOfPython
 ```
 
 The result:
 
 ```sh
-Welcome Asabeneh. Enjoy  30DayOfPython challenge! 
+Welcome Nikhil. Enjoy  30DayOfPython challenge! 
 ```
 
 Some useful sys commands:
