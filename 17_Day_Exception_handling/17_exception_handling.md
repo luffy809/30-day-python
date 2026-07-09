@@ -1,21 +1,17 @@
 <div align="center">
   <h1> 30 Days Of Python: Day 17 - Exception Handling </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="#">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-  <sub>Author:
-  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<sub>Author:
+  <a href="#" target="_blank">Nikhil Chaudhary</a><br>
   <small> Second Edition: July, 2021</small>
   </sub>
 </div>
 
 [<< Day 16](../16_Day_Python_date_time/16_python_datetime.md) | [Day 18 >>](../18_Day_Regular_expressions/18_regular_expressions.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](https://img.shields.io/badge/30_Days_Of_Python-Nikhil_Chaudhary-blue?style=for-the-badge)
 
 - [📘 Day 17](#-day-17)
   - [Exception Handling](#exception-handling)
